@@ -220,6 +220,7 @@
   display: flex;
   justify-content: space-between;
   gap: 32px;
+  cursor: pointer;
 }
 /* foot */
 footer{
